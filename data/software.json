@@ -1,0 +1,12 @@
+[
+    {"id": 1, "nom": "Django", "any": 2005, "llenguatges": [1, 3]},
+    {"id": 2, "nom": "Node.js", "any": 2009, "llenguatges": [2]},
+    {"id": 3, "nom": "Android Studio", "any": 2013, "llenguatges": [3, 4]},
+    {"id": 4, "nom": "Ruby on Rails", "any": 2004, "llenguatges": [5]},
+    {"id": 5, "nom": "TensorFlow", "any": 2015, "llenguatges": [1, 2, 4]},
+    {"id": 6, "nom": "GitLab", "any": 2011, "llenguatges": [1, 2, 3, 4, 5]},
+    {"id": 7, "nom": "Visual Studio", "any": 1997, "llenguatges": [3]},
+    {"id": 8, "nom": "IntelliJ IDEA", "any": 2001, "llenguatges": [3, 4]},
+    {"id": 9, "nom": "RubyMine", "any": 2010, "llenguatges": [5]},
+    {"id": 10, "nom": "Chrome", "any": 2008, "llenguatges": [2]}
+  ]

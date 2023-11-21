@@ -1,0 +1,7 @@
+[
+    {"id": 1, "nom": "Visual Studio Code", "any": 2015, "llenguatges": [1, 2, 3]},
+    {"id": 2, "nom": "Eclipse", "any": 2001, "llenguatges": [3, 4]},
+    {"id": 3, "nom": "Sublime Text", "any": 2008, "llenguatges": [1, 2, 5]},
+    {"id": 4, "nom": "Git", "any": 2005, "llenguatges": [1, 2, 3, 4, 5]},
+    {"id": 5, "nom": "Atom", "any": 2014, "llenguatges": [1, 2]}
+  ]

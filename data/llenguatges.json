@@ -1,0 +1,7 @@
+[
+    {"id": 1, "nom": "Python", "any": 1991, "dificultat": "mitja", "popularitat": 5},
+    {"id": 2, "nom": "JavaScript", "any": 1995, "dificultat": "mitja", "popularitat": 4},
+    {"id": 3, "nom": "Java", "any": 1995, "dificultat": "mitja", "popularitat": 3},
+    {"id": 4, "nom": "C++", "any": 1983, "dificultat": "difícil", "popularitat": 2},
+    {"id": 5, "nom": "Ruby", "any": 1995, "dificultat": "mitja", "popularitat": 1}
+  ]
